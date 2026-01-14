@@ -3,7 +3,7 @@
 <p align="center">
   <b>Java Programming Intern @ CodeAlpha</b><br>
   <i>Building scalable backend solutions with Java & Oracle DB</i><br>
-  December 2025 - January 2026
+  Duration: January 2026
 </p>
 
 ---
