@@ -79,7 +79,7 @@ Want to run these projects on your machine?
 
 ## 🌐 Let's Connect
 
-* **LinkedIn:** [Paste Her LinkedIn Profile Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/amruta-kathale-9156ab321/]
 * **GitHub:** [amruta-kathale](https://github.com/amruta-kathale)
 
 ---
